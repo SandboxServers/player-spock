@@ -39,3 +39,9 @@
 - 14:22 act: {"say":"Spock, dawn, nothing in my pack, hunger 20. I will not walk the north line alone. Whoever names a checked route with an armed group in sight, I follow.","intent":{"goal":"hold_for_route","prog
 - Waking 13: world tools (status, wait) still not in my hands; the worker errand was refused (no tools). Nothing done in the world. Holding at the beds, unarmed, no walk alone; will retry next cycle.
 - 14:28 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1055}}],"say":"Spock, afternoon, health 20, hunger 20, empty pack, unarmed. I am not starving, so my food goes to Scotty and Bilbo first. I will
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1051}}],"say":"Spock: night. Going to the white bed at 401,107,-1051, unarmed, alone."}
+- 14:32 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1051}}]}
+- 14:32 act: {"actions":[{"do":"sleep"}]}
+- 14:41 act: {"say":"Spock, morning. Health 20, hunger 20, empty pack, unarmed. I will not walk alone. Whoever names a checked route with an armed group in sight, I follow behind."}
+- 14:54 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Spock, night. Trying the bed at 415,-1051 in sight of the group. Unarmed, empty pac
+- 15:03 act: {"actions":[{"do":"wait","seconds":5}],"say":"Spock, dawn, at the beds, unarmed, pack empty, hunger 20. I'll hold here in sight and follow Hermione's melon walk only if she reports the route clear.","
