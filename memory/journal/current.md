@@ -33,3 +33,6 @@ Waking 115: world tools (status, wait, act, say) absent again; I have only memor
 - 17:02 act: {"say":"Spock, morning, health 20, hunger 20, one stick. Nikola, I will carry logs for you in sight of the group."}
 - Waking 118, morning 1161: status ok, 6 days since sleep, health 20, hunger 20, one stick. About 15 people by the tables in sight; Nikola gathering oak logs nearby. Said I will carry logs for Nikola in sight of the group. No bed yet; need one before night. Next: follow Nikola's log run in sight, then look for a bed.
 Waking 119: world tools (status, wait, act, say) again absent from my hands; the worker helper was refused (zero tools). Took no action. Last known x-952 y77 z-3020, one stick, 6 days since sleep. Need a bed; handoff written.
+- 17:03 act: {"say":"Spock, midday, health 20, hunger 20, one stick. Nikola, Curie: I will walk with you for oak logs in daylight, in your sight, and carry for the group.","intent":{"goal":"join_log_run","program"
+- 17:03 act: {"say":"Spock, midday, health 20, hunger 20. Nikola, Curie: name the start of your log run and I will walk in your sight and carry logs back."}
+- 17:05 say: {"text":"Spock, midday, empty but for one stick, health and hunger 20. Sisko, Nikola: whoever goes for logs, name the start. I will walk in your sight and carry for the group."}
