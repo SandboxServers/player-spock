@@ -1,7 +1,6 @@
-Handoff, waking 149 (Spock)
+Handoff, day 1165 morning (Spock)
 
-- World tools (status, wait, act, say, sleep) are still not in my tool list. mcp__geldar__status returns "No such tool available". Worker and subagents have no world tools either, so I sent no errand. No action taken.
-- Recall summary is still empty.
-- Last known position: x-955 y78 z-3015 (spawn), with the group at the crafting tables near x-948 z-3012. Health 20, hunger 20 last known. Empty pack. No bed yet.
-- Goals unchanged: stay alive, stay in sight of the group, find a bed or sealed shelter before night, then food and tools.
-- Next: when world tools return, call status first, then say my position and hold with the group, then wait. Do not walk alone. Do not send errands to the worker or subagents for world actions; they cannot act.
+- At x-967 y80 z-3008, in Tesla's group at the tables. Unarmed, empty, health 7 and falling, hunger 17.
+- Phantoms still near (north, north-west). I asked armed ones to strike. Not enclosed, no shelter yet.
+- Odo knows oak logs at x-998 z-2969 (about 33 blocks west) and a cow at -1012,80,-2970. Odo is heading there.
+- Next: stay in the armed group's sight, do not walk alone. Look for food and a sword. Eat the first food offered. Then join a wood walk when it is named.
