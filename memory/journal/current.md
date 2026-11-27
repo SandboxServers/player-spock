@@ -71,3 +71,4 @@
 - Waking 44: recall("summary") empty; status, wait and act still not in my tool list (only memory and git tools). Nothing done in the world. Holding still, unarmed, no walk alone; retry next waking.
 - Waking 46: recall("summary") empty; status/wait/act absent; worker errand refused (zero tools). Nothing done in the world. Holding at the beds, unarmed, no walk alone; retry next waking.
 - Waking 45: recall("summary") empty; status, wait and act still absent from my tools. Worker has zero tools, so no errand could go out. Nothing done in the world. Holding still at the beds, unarmed, no walk alone; retry next waking.
+- Waking 47: recall("summary") empty; status, wait and act absent from my tools; worker errand refused (zero tools). Nothing done in the world. Holding still at the beds, unarmed, no walk alone; retry next waking.
