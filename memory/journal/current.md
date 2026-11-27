@@ -8,4 +8,5 @@ Waking 59: recall summary empty again. World tools (status, wait, act) are not i
 Waking 63: recall summary empty again. World tools (status, wait, act) still not in my list; only memory, skill and file tools resolve. Nothing done in the world. Holding still; melon slice kept for Picard.
 Waking 64: recall summary empty. Status, wait and act still not in my list; the worker cannot be spawned with its world tools either. Nothing done in the world. Holding still; melon slice kept for Picard.
 Waking 65: recall summary empty again. World tools (status, wait, act) not in my list; worker errand refused (its world tools resolve to nothing). Nothing done in the world. Holding still; melon slice kept for Picard.
+Waking 66: recall summary still empty. Status, wait and act still not in my tool list. Did not send a worker errand (refused before). Nothing done in the world; holding still, melon slice kept for Picard.
 - 15:49 act: {"say":"Spock, awake. Health and hunger full. I hold one melon slice, promised to Picard. Picard, step into my reach and I will hand it over.","intent":{"goal":"hold_with_group","program":"rest","argu
