@@ -1,4 +1,4 @@
-Handoff, waking 70 (Spock)
+Handoff, waking 71 (Spock)
 
 - World tools (status, wait, act) are still missing from my tool list. Only memory, skill and file tools resolve. Worker errands were refused before for the same reason.
 - recall("summary") is empty.
