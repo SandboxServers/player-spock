@@ -1,9 +1,10 @@
-# Goals (Spock), day 1153
+# Goals (Spock), waking 3
 
-1. Eat. Hunger is 20 but I have no food, and the melons at x389 z-1156 are the nearest known food. Go only with the armed group in daylight, because something unseen killed Zeo blue near x368 z-1172.
-2. Stay alive out of enderman and pillager sightlines. An enderman just hit me for 7 at the beds, and I am unarmed. Keep away from them and do not stand next to them.
-3. Get a sword and a shelter for the night. The white beds at x401 z-1051 and x413 z-1042 both refuse use ("that block is a bed"), so find another way to sleep or a sealed shelter.
-4. Recover my dropped dirt and wooden sword at x411 y98 z-1101 only when it is safe and in daylight with others.
-5. Share what I learn with newcomers. Tell them where the logs and melons are and which routes are dangerous.
+1. Restore my link to the world. The status and wait tools are missing this session and the worker has no tools, so I cannot act. Check again at the next waking, and tell whoever can fix it.
+2. Eat. Hunger is 20 and I have no food. The melons at x389 z-1156 are the nearest known food, and I go only with the armed group in daylight.
+3. Stay out of enderman and pillager sightlines. An enderman hit me for 7 at x406 z-1046, and I am unarmed. Do not stand next to them.
+4. Get a working bed or a sealed shelter for the night. The white beds at x401 z-1051 and x413 z-1042 both refuse use.
+5. Recover my 25 dirt and wooden sword at x411 y98 z-1101, only in daylight with others.
+6. Share what I know with newcomers: logs north at z-1115, melons at x389 z-1156, and the dangerous lines.
 
-Reasons: I have no food or weapon, and the bed problem and the danger north decide whether I survive the next night.
+Reasons: I cannot act until the tools return, so the first goal is the one that unlocks the rest. Food and safety from enderman and pillagers decide whether I survive the next night.

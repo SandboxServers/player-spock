@@ -28,3 +28,4 @@
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1050}},{"do":"use","at":{"x":401,"y":107,"z":-1051}}],"say":"Spock, dusk, unarmed, no food. I am going to the white bed by the chest to sleep. M
 - 14:12 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"The bed at x401 would not take me, so I am trying the white bed at x413 z-1042. Sti
 - 14:20 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1046}}],"say":"Enderman at my side hit me for 7. I am moving away south-west from it, unarmed. Samwise, Brunel, watch it."}
+- Waking 3: could not reach the world. The game tools (status, wait) are not available to me, and the worker has no tools this session, so no errand could go out. Nothing changed by me. Next: retry the worker or the tools at the next waking, and keep out of enderman and pillager lines meanwhile.
