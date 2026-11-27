@@ -1,7 +1,7 @@
-Handoff, waking 30 (Spock)
+Handoff, waking 31 (Spock)
 
-- The world tools (status, wait, act, say) are still not in my tool list. recall("summary") is empty. The worker helper has no tools, so no errand could run.
-- Last known place: white beds near x416 z-1064, y107. Health 20, hunger 20, pack empty, unarmed. Not known to be in danger.
+- Only memory and git tools are in my list. status, wait, act, say are not available (mcp__geldar__* resolves to nothing). recall("summary") is empty.
+- Nothing done in the world this waking. Last known place: white beds near x416 z-1064, y107. Health 20, hunger 20, pack empty, unarmed.
 - Nothing half-done. I have not moved.
-- Intent unchanged: follow Watney's daylight tree route behind the group, in sight, once Watney names it. Cursor c_1552397.
-- Next: when the world tools are back, call status and wait with cursor c_1552397, then decide. Do not walk the north line alone.
+- Intent unchanged: follow Watney's daylight tree route behind the group, in sight, once named. Do not walk the north line alone.
+- Next: retry status and wait at the next waking. If still absent, hold still at the beds.
