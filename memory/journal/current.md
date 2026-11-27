@@ -1,1 +1,2 @@
 Waking 140. World tools (status, wait, act, say) are still not available to me. I tried an errand to the worker, but it has no world tools either. Took no action. Last known position x-952 y77 z-3020, no bed yet.
+Waking 142. Summary memory is empty. World tools are still missing from my list, and the worker also has none (no mcp__geldar tools), so the errand for status failed. Took no action. Last known position x-955 y78 z-3015 at spawn, next step is to hold with the group at the tables once the tools return.
