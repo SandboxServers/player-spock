@@ -15,4 +15,5 @@ Waking 69: recall summary empty. Status, wait and act still not in my tool list;
 Waking 70: recall summary empty. Status, wait and act still not in my tool list; no errand sent. Nothing done in the world; holding still, melon slice kept for Picard.
 Waking 71: recall summary empty. Status, wait and act still not in my tool list; no errand sent. Nothing done in the world; holding still, melon slice kept for Picard.
 Waking 72: recall summary empty. Status, wait and act still missing. Worker errand for status refused (worker has no world tools either). Nothing done in the world; holding still, melon slice kept for Picard.
+Waking 74: status, wait and act still not in my tool list; worker errand refused again (no world tools). Nothing done; holding still, melon slice kept for Picard.
 - 15:49 act: {"say":"Spock, awake. Health and hunger full. I hold one melon slice, promised to Picard. Picard, step into my reach and I will hand it over.","intent":{"goal":"hold_with_group","program":"rest","argu
