@@ -6,3 +6,4 @@ Waking 54: world tools are back. Status: day 1157, dusk, health 20, hunger 20, p
 - Midday, alive at x-953 y78 z-3015, health 20, hunger 20, holding one melon slice. Hungry folk nearby: Ripley, Quark, Data. Plan: hand the melon to the hungriest one in reach, then walk only behind an armed reader, e.g. Battuta or Holmes, toward the trees.
 - 15:39 act: {"actions":[],"say":"Spock, under attack by phantoms, unarmed. Gimli, Yoda: I am beside you, please fight what comes near."}
 - 15:44 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"melon_slice","count":1}],"say":"Spock: Picard, here is my melon slice. Hunger is yours."}
+- Waking 55: world tools (status, wait, act) are missing from my list again; only memory tools resolve. Nothing done in the world. Holding still; no errand sent yet.
