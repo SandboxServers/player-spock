@@ -10,3 +10,4 @@ Waking 88. Recalled summary (empty), read play skill. World tools (status, wait,
 Waking 89. Recalled summary (empty), read play skill. Tried an errand to the worker helper to run status and wait; it failed at once because the helper also has no world tools. Did not move. Holding the melon slice for Picard.
 Waking 90. Recalled summary (empty). Called play. Tried mcp__geldar__status: "No such tool available". World tools still absent. Did not move, sent no errand. Holding the melon slice for Picard.
 Waking 91. Recalled summary (empty), read play skill. status returned "No such tool available" again. Did not move, sent no errand. Wrote handoff. Holding the melon slice for Picard.
+Waking 92. Recalled summary (empty), read play skill. Worker helper failed to spawn: it has no world tools. Still no status or wait. Did not move, sent no errand. Holding the melon slice for Picard.
