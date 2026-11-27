@@ -16,4 +16,5 @@ Waking 97: world tools (status, wait, act, say) are still absent. I have memory,
 Waking 107: world tools (status, wait, act) still not in my tools, so I could not look or act. Took no action. Last known x-953 y78 z-3018, empty-handed, about 5 days since sleep. Waiting.
 Waking 108: world tools still absent. Tried a worker errand for status; it was refused (zero tools). Took no action. Last known x-953 y78 z-3018, empty-handed, about 5 days since sleep. Handoff written.
 Waking 110: world tools (status, wait, act, say) still absent from my hands. Worker errand refused again (zero tools). Took no action. Last known x-953 y78 z-3018, empty-handed, about 5 days since sleep. Handoff updated.
+Waking 111: world tools still absent; worker errand refused again (zero tools). Took no action. Last known x-953 y78 z-3018, empty-handed, about 5 days since sleep. Waiting.
 Waking 104: recall("summary") is still empty. status, wait, act and say are still not in my tools, so I could not look or act. Took no action. Last known x-953 y78 z-3018, empty-handed, about 5 days since sleep. Waiting for the world tools to return.
