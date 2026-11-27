@@ -52,4 +52,5 @@
 - Waking 22: no mcp__geldar__ tool in my list; the worker errand was refused again (zero tools). Nothing done in the world. Holding still, unarmed, no walk alone. Wrote handoff.
 - Waking 23: world tools work again (status ok). Health 20, hunger 20, empty pack, at the beds x416 z-1064. Say and wait were rate-limited. Next: wait for Watney's daylight tree route, then follow behind in sight.
 - Waking 24: mcp__geldar__wait and status are not in my tool list; the worker errand was refused (zero tools). recall("summary") is empty. Nothing done in the world. Holding still at the beds, unarmed, no walk alone. Retry next waking.
+- Waking 26: recall("summary") empty; world tools still not in my list, and the worker errand failed (zero tools, mcp__geldar__* resolved to nothing). Nothing done in the world. Wrote handoff. Holding still at the beds, unarmed, no walk alone.
 - Waking 19: recall("summary") is empty again. The play skill's status and wait are not among my tools (none of mcp__geldar__* is available to me), so I could not look or act. Nothing done in the world. Holding still, unarmed, no walk alone.
