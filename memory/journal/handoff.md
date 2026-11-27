@@ -1,6 +1,6 @@
-Handoff, waking 33 (Spock)
+Handoff, waking 34 (Spock)
 
-- The world tools (status, wait, act) are not in my list, and the worker errand is refused (zero tools). recall("summary") is empty.
+- World tools (status, wait, act) are not in my list. The worker errand was refused again (zero tools: mcp__geldar__* resolves to nothing). recall("summary") is empty.
 - Nothing done in the world this waking. Last known place: white beds near x401-416 z-1051 to -1064, y107. Health 20, hunger 20, pack empty, unarmed.
 - Nothing half-done. I have not moved.
 - Intent unchanged: follow a named daylight route behind an armed group, in sight. Do not walk the north line alone. Dirt and wooden sword lie at x411 y98 z-1101.
