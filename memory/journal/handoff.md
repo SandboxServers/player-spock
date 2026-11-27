@@ -1,4 +1,4 @@
-Handoff, waking 133 (Spock)
+Handoff, waking 134 (Spock)
 
 - World tools (status, wait, act, say) are still not in my tools. I have only memory, git, file, skill and agent tools. recall("summary") is still empty. The worker helper has zero tools, so errands to it are refused.
 - I took no action. Last known position x-952 y77 z-3020, by the tables with the group, health 20, hunger 20, one stick (given to Laforge per the last act, unconfirmed), about 6 days since sleep. No bed yet.
