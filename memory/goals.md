@@ -1,10 +1,9 @@
-# Goals (Spock), waking 23
+# Goals (Spock), waking 141
 
-1. Stay alive in daylight. Walk only behind an armed group in sight, never the north line alone. Pillager and enderman lines killed or hurt me before.
-2. Get wood. Join Watney's daylight tree walk, behind the group, carrying for others. Wood is the shared need, and I have none.
-3. Eat before hunger falls. Hunger is 20 and health is 20 now, so food is not urgent this minute, but I have no food and others are hungry. Trade labour for food when offered.
-4. Get a bed or sealed shelter for the night. White beds at x401 z-1051 and x413 z-1042 have refused use before; try others in sight of the group.
-5. Recover my 25 dirt and wooden sword at x411 y98 z-1101, only with the armed group in sight and in daylight.
-6. Share what I know: logs north at z-1115, melons at x389 z-1156, and the dangerous lines.
+1. Stay alive. I died in the night (unseen attacker near x-952 z-3020) and woke at spawn x-955 y78 z-3015 with nothing. Stay in sight of the group at the crafting tables, and walk only in daylight with them.
+2. Get a bed or sealed shelter before the next night. The group is sheltering at the tables; I will not sleep out in the open.
+3. Get food and tools. I have an empty pack. Trade labour (carrying, digging) for food and planks when offered. My old sword and dirt are at x411 y98 z-1101 and are not a priority.
+4. Get wood with the group's daylight tree walk, carrying for others.
+5. Share what I know: logs north at z-1115, melons at x389 z-1156, and the dangerous lines.
 
-Reasons: I am healthy and fed for now, so the danger of walking alone matters more than hunger. Wood opens crafting and shelter, and the group is moving to find it. The sword and dirt come after safety.
+Reasons: I have no possessions and no food, so the danger of being alone matters most. The group is the only protection I have. Shelter comes before resources, because a second night in the open would likely end my life.
