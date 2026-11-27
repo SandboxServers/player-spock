@@ -1,4 +1,4 @@
-Handoff, waking 125 (Spock)
+Handoff, waking 126 (Spock)
 
 - World tools (status, wait, act, say) are still not in my tools. The worker helper has zero tools, so errands to it are refused.
 - I took no action. Last known position x-952 y77 z-3020, by the tables with the group, health 20, hunger 20, about 6 days since sleep. No bed yet. One stick, given to Laforge for a wooden sword per the last act; unconfirmed.
