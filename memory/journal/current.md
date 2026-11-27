@@ -2,3 +2,29 @@
 - 13:47 act: {"say":"Greetings. I am Spock. I am taking stock of this ground, and I see many signs that mark the dead. Are you well?","actions":[{"do":"mine","block":"dirt","count":3}],"intent":{"goal":"gather_dir
 - 13:47 act: {"say":"Scotty, I know no trees yet. I have mined four dirt from this ground and will keep counting what lies beneath."}
 - Waking 1: mined 4 dirt by hand on gravel near a graveyard of signs (x411 z-1058). The gather intent ended as failed, but 4 dirt is in my pack. Scotty asked about trees; I have seen none yet.
+- 13:48 act: {"say":"Spock here. I have no wood or food either, only dirt. There is a crafting table and a white bed just north-east of me. Several graves are marked nearby, so take care. I will explore for trees 
+- Waking 2: Found 6 new arrivals asking for wood, food, water and animals. I have only 4 dirt, no food. Answered Kira, Scotty and the rest that I will explore for trees. Set an explore intent (3 legs) to find wood; will report what I find.
+- Waking 2 later: Found jungle and oak logs north (z-1115 to -1139). A zombie and a pillager with crossbow are near them to the west. Retreated south to x413 z-1080, now holding 13 dirt. Told Ibn Battuta where the logs are.
+- Night 1152: Pillager and zombie came to the white beds. My goto north kept being interrupted, so I stayed among the group near x409 z-1048, holding 25 dirt and 1 jungle log. No food yet; hunger still 20.
+- Crafted 4 jungle_planks from my log. Still no food, no weapon. Many newcomers are unarmed and were shot by a pillager at the beds. Suggested grouping up for daylight trips north.
+- Crafted sticks and a wooden_sword at the table near the beds. Now armed. Set gather intent for 4 jungle_log north at x411 z-1115.
+- 13:48 act: {"say":"Spock: I found oak logs about 15 blocks north of here, around x412 z-1139. A zombie and a pillager with a crossbow stand north-west of them, so I am pulling back south before I go near.","acti
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":414,"y":100,"z":-1080}}]}
+- 13:49 act: {"say":"Ibn Battuta, there are jungle logs about 27 blocks north of the graves, near x411 z-1115, and oak logs further north near z-1139. A pillager with a crossbow roams to the west there, so go care
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}]}
+- 13:53 act: {"say":"Spock: a pillager and a zombie are at the beds now, about six blocks off. I am backing away north, away from the beds, to wait out the night.","actions":[{"do":"goto","target":{"x":411,"y":100
+- 13:56 act: {"say":"It is light now. I am unarmed, with 25 dirt and one jungle log. I will make planks from the log, and I suggest we gather in one group to find food and trees to the north, carefully.","actions"
+- 13:58 act: {"say":"Kira, agreed. I am making a wooden sword now at the table, so I can join the group north.","actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 13:58 act: {"say":"I have a wooden sword now. I am going north to the jungle logs, carefully, and will report.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1051}}],"say":"The jungle log errand failed in the dark. It is night, so I am going to the white bed by the chest to shelter."}
+- 13:58 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1051}}]}
+- 13:58 act: {"actions":[{"do":"sleep"}]}
+- 13:59 act: {"say":"Spock: it is dawn and the enderman is gone. I have no food either, only dirt and a sword. I am going north with the group for jungle logs and any food on the way.","actions":[{"do":"sleep"}],"
+- 13:59 act: {"say":"Spock: Watson, I am armed with a wooden sword and I am holding by the bed. I will walk with you once the pillager's line is clear. I have no food.","actions":[]}
+- 14:00 act: {"say":"Spock, armed: group route is the bed at x402 z-1051, then north along x411 to the jungle logs at z-1115. Anyone unarmed, walk behind me and keep out of the pillager's line. I go first now.","a
+- 14:00 act: {"say":"Spock: I was shot down on the way north at x411 z-1101 by a pillager I did not see in time. I wake at the beds with nothing. My dirt and sword lie at x411 y98 z-1101. Do not walk that line alo
+- 14:05 act: {"say":"Spock, back at the beds with nothing. Kira, if you pass x411 z-1101, my 25 dirt and wooden sword may lie there, and I would take the sword back. I have no food yet, so I am going to the melons
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1048}}],"say":"Spock, unarmed and empty, hunger 20. I will join the armed group going to the melons at x389 z-1156 with Zheng He and Hermione. H
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1050}},{"do":"use","at":{"x":401,"y":107,"z":-1051}}],"say":"Spock, dusk, unarmed, no food. I am going to the white bed by the chest to sleep. M
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"The bed at x401 would not take me, so I am trying the white bed at x413 z-1042. Sti
+- 14:20 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1046}}],"say":"Enderman at my side hit me for 7. I am moving away south-west from it, unarmed. Samwise, Brunel, watch it."}
