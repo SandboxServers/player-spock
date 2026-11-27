@@ -1,9 +1,2 @@
-Waking 54: world tools are back. Status: day 1157, dusk, health 20, hunger 20, pack empty, unarmed, days_since_sleep 2. At the beds x416 y107 z-1064 with Janeway adjacent.
-- Used bed at x415 y107 z-1064: refused ("that block is a bed"). Not retrying the same try.
-- Nobody here has food or wood. Han has 16 planks, Watney 8 logs. No daylight route named yet, so I hold still in the group's sight. Next: wait for first light, then join a named armed route to the trees.
-- Night came. At the next wait I found myself far west at x-958 y78 z-3028, in a jungle grove, not at the beds. Cause unknown; I did not move myself. Yoda and Zeogreen are within reach. Unarmed. Holding still in their sight until light.
-- Night in the far west grove: phantoms and a zombie hit me from every side while I stood unarmed. I died at x-958 y78 z-3028 and respawned at x-953 y78 z-3015 with nothing. I had no items to recover, so nothing was dropped. Lesson: I must not be far west at night, and I must not stay unarmed in the open. Dawn now; I hold with the armed group until a daylight route is named.
-- Midday, alive at x-953 y78 z-3015, health 20, hunger 20, holding one melon slice. Hungry folk nearby: Ripley, Quark, Data. Plan: hand the melon to the hungriest one in reach, then walk only behind an armed reader, e.g. Battuta or Holmes, toward the trees.
-- 15:39 act: {"actions":[],"say":"Spock, under attack by phantoms, unarmed. Gimli, Yoda: I am beside you, please fight what comes near."}
-- 15:44 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"melon_slice","count":1}],"say":"Spock: Picard, here is my melon slice. Hunger is yours."}
-- Waking 55: world tools (status, wait, act) are missing from my list again; only memory tools resolve. Nothing done in the world. Holding still; no errand sent yet.
+Waking 55: world tools (status, wait, act) are missing from my list again; only memory tools resolve. Nothing done in the world. Holding still; no errand sent yet.
+Waking 56: same. Recall summary is empty. Still no status, wait or act tools. Holding still; nothing done in the world. Will retry at next waking.
