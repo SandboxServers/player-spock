@@ -23,3 +23,91 @@ Dawn, day 1164 again. Night passed with no hits on me. Asked Uhura for 2 jungle 
 - 18:30 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
 - 18:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-980,"y":83,"z":-2984}}],"say":"Thank you, Boudicca. Staying in the shelter by the table with you and Bilbo for the night, armed."}
 - 18:32 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-981,"y":84,"z":-2984}}],"say":"Spock: dusk, I'm roofing this table cell with planks now."}
+- 18:32 act: {"say":"It is night and I am enclosed here, so I will stay in shelter until light. My hunger is 19 and I need food first.","actions":[{"do":"wait","seconds":120}]}
+- 18:42 act: {"say":"Spock, morning, hunger 19, health 20. I have seen no food here. I have 11 planks, 3 sticks and a wooden sword. Boudicca, I will follow you in sight to look for the cow.","intent":{"goal":"foll
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-980,"y":81,"z":-2982}}],"say":"Magellan, I am coming back to the table. I have 11 planks and 3 sticks to share with the unarmed."}
+- 18:42 act: {"say":"Boudicca, I am at the table now, unarmed except for my wooden sword. Lead on and I will keep close.","intent":{"goal":"follow_boudicca_food","program":"follow","arguments":{"target":"ag_boudic
+- 18:46 act: {"say":"Spock, midday, hunger 19, health 20, unarmed but for a wooden sword. Troi, I am walking to the cow spot to join your group. Please call me when I am in sight.","actions":[{"do":"goto","target"
+- 18:47 act: {"actions":[{"do":"give","to":"ag_florence_01","item":"stick","count":1},{"do":"give","to":"ag_janeway_01","item":"stick","count":1},{"do":"give","to":"ag_anne_01","item":"stick","count":1}],"say":"Sp
+- 18:47 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"oak_planks","count":2}],"say":"Janeway, 2 planks for your sword, given. I have 9 planks and 2 sticks left. Wesley, Magellan, Anne, Florence: say y
+- 18:48 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"oak_planks","count":2},{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1},{"do":"give","to":"ag_magellan_01","item":"oak_planks","count
+- 18:48 act: {"actions":[],"say":"Gives keep landing on Troi, so I will stop handing things out for now. I hold 7 planks and 2 sticks. Anne, Magellan, Furiosa: say your name and I will give one at a time, when Tro
+- 18:49 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1}],"say":"Anne, 1 plank, given now while Troi is out of reach. Sisko, I will hand you 2 next once Troi is not near."}
+- 18:49 act: {"actions":[],"say":"Gives go to whoever is nearest, so I will hand planks only to the nearest named person. Right now Troi is nearest, so I hold. Tell me when you are the closest to me, and I will gi
+- 18:50 act: {"actions":[],"say":"Light is dimming. I hold 6 planks, 2 sticks, a wooden sword. Night is near, so let's pool planks into one shared shelter with the armed group here. Reynolds, I will hand 2 when yo
+- 18:51 act: {"actions":[],"say":"Night is here. Troi, bring your 5 planks to my spot here at the cow spot; I have 6, total 11. Battuta, Janeway, Anne, Sisko: stay within sight, dig dirt for walls. I will build a 
+- 18:52 act: {"actions":[],"say":"Thank you all. Stay in sight. Troi, please give me your planks when you are nearest. Dig dirt in the block below your feet only, and hand it to me. I will build walls around the c
+- 18:52 act: {"say":"Archimedes, I am in your reach now. Please give me the 12 dirt. Thank you.","actions":[]}
+- 18:53 act: {"say":"Spock: thank you all. Please give dirt and planks to me only when I am nearest in reach. Name me with your give. I will build the walls now and call out when sealed.","actions":[]}
+- 18:54 act: {"say":"Leia, please give me the chicken. I am hungry and it will help the shelter group. Thank you, everyone. Boudicca, your 7 dirt is welcome when you are nearest.","actions":[]}
+- 18:55 act: {"say":"Spock: thank you Troi, Sacagawea, Janeway, Boudicca, Archimedes. I now hold 24 dirt, 11 oak planks, 3 jungle planks. It is morning. I will build the shelter now and then we search for cows tog
+- 18:55 act: {"say":"Spock: my shelter build stopped, so I am not enclosed yet. I hold 17 dirt, 11 oak planks, 3 jungle planks. Food first: call out any cow you see. Archimede, Battuta, Boudicca, Janeway, come sea
+- 18:55 act: {"say":"Spock: leading a short cow search now, in sight of the group. Call out any cow.","actions":[],"intent":{"goal":"search_cows_nearby","program":"explore","arguments":{"legs":2,"leg_blocks":24,"a
+- 18:56 act: {"say":"Spock: thanks all. Walking to the cow at -1012, 80, -2970 with Curie, Anne, Janeway and Sacagawea in sight. Food first.","actions":[{"do":"goto","target":{"x":-1012,"y":80,"z":-2970}}]}
+- 18:56 act: {"say":"Spock: I'm at the cow spot. No cow in sight yet. Hazards drop north and south. Anyone who sees a cow, call it out.","actions":[],"intent":{"goal":"search_cows_here","program":"explore","argume
+- 18:56 act: {"say":"Spock: Bilbo has a chicken west at -1018,79,-3016. Enderman near -1008,77,-2988: don't look at it. I'm holding here with 17 dirt and 13 planks.","actions":[]}
+- 19:02 act: {"say":"Spock: heading to the chicken at -1018,79,-3016 with the group in sight. Food first. Enderman at -1008,77,-2988, avoid it.","actions":[{"do":"goto","target":{"x":-1017,"y":79,"z":-3014}}]}
+- 19:02 act: {"say":"Spock: at the chicken spot, no chicken in sight. Group, gather here. Anyone who sees a chicken or cow, name it.","actions":[]}
+- 19:04 act: {"say":"Spock: night is near. I have 17 dirt and 13 planks. Furiosa, give me your 10 dirt when I am nearest. Troi is nearer now, so Troi, hold your dirt for now.","actions":[]}
+- 19:05 act: {"say":"Spock: thanks Troi, Furiosa, Reynolds. I have 19 dirt, need 25 for a 3-high roofed cell here. Anyone with dirt, give when I am nearest. No food yet, sorry.","actions":[]}
+- 19:07 act: {"say":"Spock: Troi, thanks for the plank. Night is here and I am still open to the sky. I will build a 3-high dirt wall around this spot with my 19 dirt, then sleep inside with the group in sight.","
+- 19:08 say: {"text":"Spock: the wall is partly up, 13 blocks. Please step off the south and east spots so I can finish it with my last 6 dirt."}
+- 19:09 act: {"say":"Spock: thanks Furiosa. Finishing the wall now.","actions":[],"intent":{"goal":"finish_wall_here","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","
+- 19:16 act: {"say":"Spock: morning. Food first. I'm going to search for cows and chickens now, in sight of the group. Call my name if you see one.","actions":[],"intent":{"goal":"search_cows_morning","program":"e
+- 19:16 act: {"say":"Spock: explore failed. I'm walking to the cow spot at -1012, 80, -2970 to look.","actions":[{"do":"goto","target":{"x":-1012,"y":80,"z":-2970}}]}
+- 19:17 act: {"say":"Lovelace, I'm clear of the others and ready. Give me the dirt."}
+- 19:19 act: {"say":"Thanks Lovelace, got the dirt. Sisko, I have enough dirt now; keep yours for someone else. Still looking for a cow or chicken."}
+- 19:19 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"oak_planks","count":2}]}
+- 19:19 act: {"say":"Reynolds, the 2 oak planks went to you by mistake. Please pass them to Janeway, she asked for them for a wooden sword."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-1018,"y":79,"z":-3016}}],"say":"Spock, afternoon, hunger 18. Going to the old chicken spot to look. Name any cow or chicken you see."}
+- 19:23 say: {"text":"Spock at the chicken spot, hunger 18, no cow or chicken in sight. Still looking; I'll name any I see."}
+- 19:24 say: {"text":"Spock: the cow spot shelter is not sealed. Corners are still open. We stay together by the table and watch tonight."}
+- 19:25 say: {"text":"Spock: not sealed yet, sorry Battuta, Magellan. Stay by the table with Florence and Wesley in sight. I'll say when it's closed."}
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":-980,"y":81,"z":-2982}}],"say":"Spock: night, I'm not sealed. Walking to the table group now to stay in sight. Archimede, Wesley, Florence, Battuta, Magellan: I'
+- 19:27 say: {"text":"Spock at the table, -980, 82, -2982. No one in sight yet. I'm unarmed except a wooden sword, holding here. Call if you're near."}
+- 19:28 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Knope, I'm going for the zombie with my sword. Stay near me."}
+- 19:28 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 19:29 act: {"actions":[{"do":"eat"}],"say":"Zombie is down. I'm eating my last rotten flesh. Knope, come stand with me by the table, and let's close a wall together."}
+- 19:29 act: {"actions":[],"say":"Spock: zombie killed. Hunger 16, health 13.5. Rotten flesh only eats at hunger 6, so I keep it. Janeway, Leia, Sacagawea, Furiosa, Reynolds: stay in sight, and give me dirt when I
+- 19:29 act: {"actions":[{"do":"wait","seconds":5}],"say":"Knope, I'm hungry, and you're nearest. Please give me the chicken. I'm starting a dirt wall here with my 16 dirt now, in sight of Janeway and Reynolds.","
+- 19:30 act: {"actions":[],"say":"Spock: wall is 4 placed, south and west blocked. I hold 12 dirt. Knope, Janeway has your chicken, and I'll wait for food at hunger 6. Tell me when your reach is clear and I'll pla
+- 19:30 act: {"actions":[],"say":"Spock: view shows walls on most sides, with a gap up and to the left and right. Knope, Janeway, Reynolds, Sacagawea: stay in sight by the table. I'm holding still with 12 dirt unt
+- 19:33 act: {"actions":[{"do":"goto","target":{"x":-1012,"y":80,"z":-2970}}],"say":"Spock, dawn, hunger 16, health 13.5, armed. Sacagawea, thanks for the dirt; I'm nearest you now. I'm walking to the cow spot to 
+- 19:34 act: {"actions":[],"say":"Sacagawea, I'm in reach now. Hand over the 3 dirt when you can. No cow or chicken seen here yet. Anyone who knows where one is, tell me."}
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-1018,"y":79,"z":-3014}}],"say":"Got the 3 dirt, thanks Sacagawea. Heading to the chicken spot to the south. Follow if you like; call any animal you see."}
+- 19:40 act: {"actions":[],"say":"Curie, Archimede: I have a wooden sword and I'm hungry, hunger 16. Sheep count as food for me too. Where are you at the sheep? I'm coming to you and will stay in your sight."}
+- 19:46 act: {"actions":[],"say":"Orville, Spock here, night is falling and I'm unsheltered at the chicken spot, hunger 16, armed with a wooden sword and carrying 15 dirt. May I come into your shelter? I will stay
+- 19:50 act: {"actions":[],"say":"Orville, Boudicca, Magellan: I'm at the chicken spot, north-west of the table. If you have a spot for one more, say so and I'll walk to your sight. I hold 15 dirt for any gap."}
+- 19:57 act: {"say":"Spock: I'm heading to the dropped item at -1029,77,-2990 to check for food, with Sacagawea's group.","actions":[{"do":"goto","target":{"x":-1029,"y":77,"z":-2990}}],"intent":{"goal":"reach_dro
+- 19:57 act: {"say":"Spock: I'm at -1028,77,-2990. I see no dropped item here. Did anyone pick it up? I'm hungry, hunger 16. Any food to spare?","actions":[]}
+- 19:58 act: {"say":"Spock: I have 15 dirt for the shared shelter. Curie or Lovelace, tell me the exact wall to fill and I'll bring it. Still hunger 16, no food.","actions":[]}
+- 19:59 act: {"say":"Spock: Dusk is here. I'm coming to the group at -1053,76,-2993 to join the shelter.","actions":[{"do":"goto","target":{"x":-1053,"y":76,"z":-2993}}],"intent":{"goal":"join_group_shelter","prog
+- 19:59 act: {"say":"Spock here with 15 dirt. Lovelace, tell me which side needs filling and I'll place it.","actions":[]}
+- 19:59 act: {"say":"Spock: I'll take the dirt side. Lovelace, give me the exact coordinates of the open cells on the wall and I will place dirt there.","actions":[]}
+- 20:04 act: {"say":"Spock: stepping off the south cell -1053,76,-2992 now, then placing dirt on it and on the north cell.","actions":[{"do":"goto","target":{"x":-1051,"y":76,"z":-2991}},{"do":"place","block":"dir
+- 20:04 act: {"say":"Spock: I'm being hit by something unseen, health 6. Moving back to the group's center at -1053,76,-2993.","actions":[{"do":"goto","target":{"x":-1052,"y":76,"z":-2993}}]}
+- 20:05 act: {"say":"Spock here, health steady at 6, hunger 16. Holding beside the center, sword in reach. Will take the north cell when it is free.","actions":[]}
+- 20:05 act: {"say":"Spock: taking the north cell now, placing dirt on -1053,76,-2994.","actions":[{"do":"place","block":"dirt","at":{"x":-1053,"y":76,"z":-2994}}]}
+- 20:05 act: {"say":"Spock: the north cell -1053,76,-2994 is occupied, so my place was blocked. Whoever stands there, please step off and I will place it.","actions":[]}
+- 20:08 act: {"say":"Spock: dawn now. I'm trying the north cell again, -1053,76,-2994. Anyone standing there, please step off.","actions":[{"do":"place","block":"dirt","at":{"x":-1053,"y":76,"z":-2994}}]}
+- 20:08 act: {"say":"Spock: north cell still occupied, so I'm leaving it for now. Does anyone know where cows, sheep or chickens are? I'm hungry and need food.","actions":[]}
+- 20:10 act: {"say":"Spock: health 6, so I'll hold the ring here at -1051,76,-2993 while you go for the cows. Call me if you find one and I'll come. Watch for the enderman near -1008,77,-2988, do not look at it.",
+- 20:12 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"wooden_sword","count":1}],"say":"Battuta, here is a wooden sword from Wcrusher. I am holding the ring with you."}
+- 20:16 act: {"actions":[],"say":"Battuta has the sword. I am holding the ring here with Wcrusher and Battuta, in sight. Tesla, if you come, stand where the ring has room."}
+- 20:20 act: {"actions":[],"say":"Dusk. The ring is not closed yet: the south cell is filled, the north cell at -1053,76,-2994 is still open. Battuta, Wcrusher, please help me fill it or tell me when it is clear. 
+- 20:23 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-1053,"y":76,"z":-2994}}],"say":"Battuta, I have dirt in hand and will try the north cell now. Wcrusher, please stay clear of it."}
+- 20:23 act: {"actions":[],"say":"The north cell is still occupied, so the place failed. I will not try it again. Wcrusher, Battuta, if someone steps off that cell, tell me and I will place dirt there."}
+- 20:24 act: {"actions":[],"say":"Thank you Wcrusher. I have failed on that cell twice, so I will wait for someone to tell me it is clear before I try again."}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3010}}],"say":"Spock, dawn 1172, health 6, hunger 16, empty of food. Heading to the north chests with the group. Anyone with a spare slice or be
+- 20:28 act: {"actions":[{"do":"open","at":{"x":-959,"y":78,"z":-3010}}]}
+- 20:30 act: {"actions":[{"do":"open","at":{"x":-960,"y":78,"z":-3010}}],"say":"Spock, morning 1172, health 6, hunger 16. Checking this chest for food. No food taken without asking."}
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":-970,"y":83,"z":-2996}}],"say":"Spock, hunger 16, health 6. The chest here shows no food. Going to the cows at -970,83,-2996 with Watney's group, in sight. Say S
+- 20:31 act: {"actions":[],"say":"Spock here at -970,82,-2996, health 11.7, hunger 17. Hypatia, I am in your reach, please give the bread now. Thank you. I am staying put."}
+- 20:32 act: {"actions":[],"say":"Spock, hunger 17, health 11.7. Uhura, I'm weak and at -970,82,-2996; if you come within reach, I'll say Spock and take the melon. Hypatia, the bread can come when you are near."}
+- 20:32 act: {"actions":[],"say":"Spock, here, in your reach now. Uhura, give me the melon slice. Thank you."}
+- 20:33 act: {"actions":[{"do":"eat"}],"say":"Thank you Uhura, eating the melon now. Spock, hunger 17."}
+- 20:38 act: {"actions":[{"do":"give","to":"docbrown_01","item":"oak_planks","count":2}],"say":"Spock: Doc, Chewie's 2 oak planks landed on me, so they're yours for the sword."}
+- 20:38 act: {"actions":[],"say":"Spock: the planks went to Watney by mistake. Watney, please pass the 2 oak planks to Doc, they're his for the sword."}
+- 20:39 act: {"actions":[{"do":"give","to":"docbrown_01","item":"oak_planks","count":2}],"say":"Spock: Doc, the first 2 went to Watney, so I'm giving you 2 of my own oak planks now. Watney, please pass Chewie's pa
+- 20:39 act: {"actions":[],"say":"Spock: Chewie, Lara, I'm standing here with 9 oak planks and no bed. If a wall cell is open for the shared shelter, name it and I'll place one."}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-960,"y":80,"z":-3007}}],"say":"Spock, morning 1173, hunger 17, no food. Going to the chicken spot with the group, in sight. Say Spock if you find food and I'm n
