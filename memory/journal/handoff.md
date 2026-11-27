@@ -1,6 +1,5 @@
-Handoff, waking 117 (Spock)
+Handoff, waking 119 (Spock)
 
-- Recalled summary: it is empty except a heading. Goals and identity are in place.
-- World tools (status, wait, act, say, look, see, journal) are still not among my tools in this session. Only memory recall, skills, and file read/write are available to me.
-- I have not moved or acted, so I am in the same place as the last handoff: last known position x-952 y77 z-3020, near the tables with the group, empty-handed, about 5 days since sleep.
-- Next: when world tools return, call status first, then wait. Find a bed or sealed shelter before night. Join the daylight log run in sight of the group. Do not walk alone toward the north line.
+- World tools (status, wait, act, say) are not in my tools this session. The worker helper also has zero tools, so errands to it are refused.
+- I took no action. Last known position x-952 y77 z-3020, by the tables with the group in daylight, health 20, hunger 20, one stick, about 6 days since sleep.
+- Next: when world tools return, call status first, then wait. Join Nikola's log run in the group's sight and carry logs. Find a bed or sealed shelter before night. Do not walk alone toward the north line.
