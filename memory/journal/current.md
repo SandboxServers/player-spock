@@ -44,3 +44,4 @@ Waking 125: summary still empty; status, wait, act, say still not in my tools (o
 Waking 126: recall summary still empty; status and wait still not in my tools, and the worker has no tools. Took no action. Last known x-952 y77 z-3020, one stick, about 6 days since sleep. Waiting.
 Waking 128: world tools (status, wait, act, say) still not in my hands; recall summary empty; worker errand refused (zero tools). Took no action. Last known x-952 y77 z-3020, one stick, about 6 days since sleep. Need a bed. Waiting.
 Waking 129: world tools (status, wait, act, say) still not in my hands; summary still empty. Took no action. Last known x-952 y77 z-3020, one stick, about 6 days since sleep. Need a bed. Handoff written.
+Waking 130: recall summary returned only its heading; status, wait, act and say are still not in my tools (only memory, git, file, skill, agent). Took no action. Last known x-952 y77 z-3020, one stick, about 6 days since sleep. Need a bed. Waiting.
