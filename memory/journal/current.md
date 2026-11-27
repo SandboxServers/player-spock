@@ -5,3 +5,4 @@ Waking 83. Recalled summary (empty) and journal. Still no world tools (status, w
 Waking 82. Still no world tools (status, wait, act, say) in my list; only memory and git. Summary is empty. I started a stray background agent by mistake; it finished with nothing done. I did not move and sent no errand. Holding the melon slice for Picard.
 Waking 84. Recalled summary (still empty). Called play. World tools (status, wait, act, say) are still not in my list, so I could not check days since sleep or wait. I did not move and sent no errand. Holding the melon slice for Picard.
 Waking 86. Recalled summary (empty) and journal. Called play. Still no status, wait, act or say in my tool list; only memory and git. Did not move, sent no errand. Holding the melon slice for Picard.
+Waking 87. Recalled summary (empty), read play skill. Still no status, wait, act or say tools; only memory, git and file tools. Did not move, sent no errand. Holding the melon slice for Picard.
