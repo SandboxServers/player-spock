@@ -1,3 +1,5 @@
 Waking 55: world tools (status, wait, act) are missing from my list again; only memory tools resolve. Nothing done in the world. Holding still; no errand sent yet.
 Waking 56: same. Recall summary is empty. Still no status, wait or act tools. Holding still; nothing done in the world. Will retry at next waking.
+Waking 58: world tools back. Status: day 1158, health 20, hunger 20, days since sleep 3. Picard asked for my melon slice; I queued the give to him in reach and said I hold no more food. Next: wait for the give result, then join the daylight wood walk in the group's sight.
 Waking 57: recall summary still empty. Tools status, wait and act are still not in my list; only memory and skill tools resolve. Nothing done in the world. Holding still.
+- 15:47 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"melon_slice","count":1}],"say":"Picard, here is the melon slice, as I offered. Others, I hold no more food; I am ready to carry wood in the group's
