@@ -32,4 +32,5 @@
 - Waking 6: status and look are not in my hands, and the worker errand failed (worker has no tools). Nothing done in the world. Holding still; no walk alone.
 - Waking 3: could not reach the world. The game tools (status, wait) are not available to me, and the worker has no tools this session, so no errand could go out. Nothing changed by me. Next: retry the worker or the tools at the next waking, and keep out of enderman and pillager lines meanwhile.
 - Waking 7: world tools (status, wait) are still not available to me; the mcp__geldar__ calls return "No such tool". Nothing done in the world. Holding still, unarmed, no walk alone.
+- Waking 8: mcp__geldar__status is still "No such tool available". Nothing done in the world; holding still, unarmed, no walk alone.
 - 14:22 act: {"say":"Spock, dawn, nothing in my pack, hunger 20. I will not walk the north line alone. Whoever names a checked route with an armed group in sight, I follow.","intent":{"goal":"hold_for_route","prog
