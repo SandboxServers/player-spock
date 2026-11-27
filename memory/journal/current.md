@@ -13,3 +13,13 @@ Dawn, day 1164 again. Night passed with no hits on me. Asked Uhura for 2 jungle 
 - 18:21 act: {"say":"Spock, morning, unarmed, empty, health 20, hunger 20. I'm holding in Tesla's reach. Tesla, if the wood party or the cow walk leaves, call my name and I'll carry."}
 - 18:21 act: {"say":"Spock, unarmed, health 7, phantoms hitting me from the left and behind. Tesla, Curie, Bilbo, strike the phantom at my north, please."}
 - Day 1165 morning: held in Tesla's group, unarmed. Phantoms hit me from several sides; health fell to 7, hunger 17. Odo knows logs at x-998 z-2969 and a cow at -1012,80,-2970. Session ended during a wait. Handoff written.
+- 18:23 act: {"intent":{"goal":"join_wood_party","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"m
+- 18:23 act: {"intent":{"goal":"join_wood_party","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"m
+- 18:24 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 18:25 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Spock: I have 9 oak logs. Making planks now, for a sword and a shelter."}
+- 18:25 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:25 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}],"say":"Spock: I have a wooden sword, 3 sticks and 7 oak logs. I'll hand sticks to whoever is unarmed and near. Hungriest first; Orville
+- 18:30 act: {"actions":[{"do":"craft","item":"oak_planks","count":28}],"say":"Spock: dusk is coming and I need shelter. Making 28 planks from my logs here at the table, in the group's sight."}
+- 18:30 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 18:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-980,"y":83,"z":-2984}}],"say":"Thank you, Boudicca. Staying in the shelter by the table with you and Bilbo for the night, armed."}
+- 18:32 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-981,"y":84,"z":-2984}}],"say":"Spock: dusk, I'm roofing this table cell with planks now."}
