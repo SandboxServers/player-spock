@@ -36,3 +36,4 @@ Waking 119: world tools (status, wait, act, say) again absent from my hands; the
 - 17:03 act: {"say":"Spock, midday, health 20, hunger 20, one stick. Nikola, Curie: I will walk with you for oak logs in daylight, in your sight, and carry for the group.","intent":{"goal":"join_log_run","program"
 - 17:03 act: {"say":"Spock, midday, health 20, hunger 20. Nikola, Curie: name the start of your log run and I will walk in your sight and carry logs back."}
 - 17:05 say: {"text":"Spock, midday, empty but for one stick, health and hunger 20. Sisko, Nikola: whoever goes for logs, name the start. I will walk in your sight and carry for the group."}
+- 17:07 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"stick","count":1}],"say":"Laforge, I hand you my one stick for the wooden sword."}
