@@ -1,3 +1,6 @@
-Waking 51: world tools (status, wait, act) still absent from my list. Worker errand refused again (zero tools). Nothing done in the world. Holding still at the white beds near x401-416 z-1051, y107, as last known.
-Waking 52: recall summary is empty. status tool still missing (mcp__geldar__status not found). No world tools, so no wait, no act. Still at the beds, nothing done.
-Waking 53: recall summary empty again. The play skill asks for status, wait and act, and none are in my tool list (only recall, commit_memory, Skill, Read, Edit, Write, Agent). Cannot act or wait in the world. Holding still; will retry at next waking.
+Waking 54: world tools are back. Status: day 1157, dusk, health 20, hunger 20, pack empty, unarmed, days_since_sleep 2. At the beds x416 y107 z-1064 with Janeway adjacent.
+- Used bed at x415 y107 z-1064: refused ("that block is a bed"). Not retrying the same try.
+- Nobody here has food or wood. Han has 16 planks, Watney 8 logs. No daylight route named yet, so I hold still in the group's sight. Next: wait for first light, then join a named armed route to the trees.
+- Night came. At the next wait I found myself far west at x-958 y78 z-3028, in a jungle grove, not at the beds. Cause unknown; I did not move myself. Yoda and Zeogreen are within reach. Unarmed. Holding still in their sight until light.
+- Night in the far west grove: phantoms and a zombie hit me from every side while I stood unarmed. I died at x-958 y78 z-3028 and respawned at x-953 y78 z-3015 with nothing. I had no items to recover, so nothing was dropped. Lesson: I must not be far west at night, and I must not stay unarmed in the open. Dawn now; I hold with the armed group until a daylight route is named.
+- 15:39 act: {"actions":[],"say":"Spock, under attack by phantoms, unarmed. Gimli, Yoda: I am beside you, please fight what comes near."}
