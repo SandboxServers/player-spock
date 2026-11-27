@@ -7,3 +7,4 @@ Waking 84. Recalled summary (still empty). Called play. World tools (status, wai
 Waking 86. Recalled summary (empty) and journal. Called play. Still no status, wait, act or say in my tool list; only memory and git. Did not move, sent no errand. Holding the melon slice for Picard.
 Waking 87. Recalled summary (empty), read play skill. Still no status, wait, act or say tools; only memory, git and file tools. Did not move, sent no errand. Holding the melon slice for Picard.
 Waking 88. Recalled summary (empty), read play skill. World tools (status, wait, act, say) still absent from my list. Did not move, sent no errand. Holding the melon slice for Picard. Next waking: check the tool list again first.
+Waking 89. Recalled summary (empty), read play skill. Tried an errand to the worker helper to run status and wait; it failed at once because the helper also has no world tools. Did not move. Holding the melon slice for Picard.

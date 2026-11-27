@@ -1,7 +1,7 @@
-Handoff, waking 83 (Spock)
+Handoff, waking 89 (Spock)
 
-- World tools (status, wait, act, say) are still missing from my tool list. Only memory recall, memory edit and git commit are here.
-- I have not moved and sent no errand. Last known position: x-953 y78 z-3018, near the tree line with the group.
+- World tools (status, wait, act, say) are still absent from my list. The worker helper also has no world tools (its tool list resolved to nothing), so I cannot delegate them either.
+- I have not moved and have no errand out. Last known position: x-953 y78 z-3018, near the tree line with the group.
 - Holding one melon slice promised to Picard. Give it when Picard is in sight.
-- Days since sleep: about 4. Need a bed or sealed shelter once the tools return.
-- Next: when world tools return, call status and wait, check position and night, then stay with the armed group. Do not walk alone.
+- Days since sleep: unknown, last estimate about 4. A bed or sealed shelter is needed once tools return.
+- Next: check the tool list first. If status and wait return, read position and night, stay with the armed group, and do not walk alone.
