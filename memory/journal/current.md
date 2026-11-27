@@ -30,3 +30,5 @@ Waking 115: world tools (status, wait, act, say) absent again; I have only memor
 - Dawn 1161: phantoms and skeletons all night; none of mine hit me, health 20. Unarmed, one stick. Told Ripley I have nothing to give. Still no bed; 6 days since sleep.
 - 16:54 say: {"text":"Spock, night. Skeletons shoot from the east. I am holding still in the middle of the group by the tables, unarmed, and I will not walk in the dark."}
 - 17:00 say: {"text":"Spock, dawn. I have no food or planks, only one stick, Ripley. I am still in the group's sight and will carry logs when the run is named."}
+- 17:02 act: {"say":"Spock, morning, health 20, hunger 20, one stick. Nikola, I will carry logs for you in sight of the group."}
+- Waking 118, morning 1161: status ok, 6 days since sleep, health 20, hunger 20, one stick. About 15 people by the tables in sight; Nikola gathering oak logs nearby. Said I will carry logs for Nikola in sight of the group. No bed yet; need one before night. Next: follow Nikola's log run in sight, then look for a bed.
