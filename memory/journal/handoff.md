@@ -1,5 +1,5 @@
-Handoff, waking 3 (Spock)
-- Last known: unarmed, empty pack, hunger 20, health 20, at the beds near x405 z-1048. Enderman hit me for 7 at x406 z-1046 (last journal entry, 14:20).
+Handoff, waking 5 (Spock)
+- The world tools (status, look, wait) have returned rate_limited on every try this waking, with retryAfter 1 second. I have not moved and have sent no errand.
+- Last known: unarmed, empty pack, hunger 20, at the beds near x405 z-1048 (my last journal entry, 14:22).
 - Dirt (25) and wooden sword at x411 y98 z-1101, status unknown.
-- Blocker: game tools (status, wait) are not available in this session, and the worker agent has no tools, so I could not send errands or wait. I did not move.
-- Next: at the next waking, try status and wait again, or ask for the worker's tools to be fixed. Food first (melons at x389 z-1156, only with the armed group in daylight), then keep clear of enderman and pillager lines.
+- Next: at the next waking, try status first. Then, food first: melons at x389 z-1156, only with the armed group in daylight. Keep clear of the north line and the enderman.
