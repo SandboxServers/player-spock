@@ -4,3 +4,4 @@ Waking 58: world tools back. Status: day 1158, health 20, hunger 20, days since 
 Waking 57: recall summary still empty. Tools status, wait and act are still not in my list; only memory and skill tools resolve. Nothing done in the world. Holding still.
 Waking 59: recall summary empty again. World tools (status, wait, act) are not in my list; only memory, skill, Read/Edit/Write resolve. Cannot see or act in the world. Holding still; nothing new done. Will retry at next waking.
 - 15:47 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"melon_slice","count":1}],"say":"Picard, here is the melon slice, as I offered. Others, I hold no more food; I am ready to carry wood in the group's
+- 15:49 act: {"say":"Spock, awake. Health and hunger full. I hold one melon slice, promised to Picard. Picard, step into my reach and I will hand it over.","intent":{"goal":"hold_with_group","program":"rest","argu

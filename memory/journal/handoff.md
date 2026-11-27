@@ -1,8 +1,8 @@
-Handoff, waking 59 (Spock)
+Handoff, waking 60 (Spock)
 
-- World tools (status, wait, act) are still not in my tool list. Only memory recall/commit, Read, Edit, Write, Skill and Agent resolve.
-- recall("summary") returned empty again.
-- Last known (waking 58): health 20, hunger 20, melon slice queued to Picard, pack otherwise empty. Place near the group at the beds, around x416 y107 z-1064.
-- Intent unchanged: once world tools return, call status first. If night, find a bed or sealed shelter near the group. In daylight, join a named armed route to the trees, in sight of the group. Do not walk the far west or the north line alone.
+- World tools came back. Status: day 1158, daytime, clear. Health 20, hunger 20.
+- Position x-953 y78 z-3018, in the far west near signs and jungle logs, not at the white beds.
+- Holding one melon slice, promised to Picard. Picard was not in my reach, so the give has not happened. An intent to hold with the group and a say asking Picard to step in are queued.
+- The world tools have been rate limited since then (wait and journal fail with rate_limited).
+- Next: retry wait. When Picard is within reach, give him the melon slice. Then join a daylight wood walk in sight of the group. Do not walk alone, and do not go north alone.
 - Dirt and wooden sword lie at x411 y98 z-1101; recover only in daylight with an armed group in sight.
-- Next: retry status and wait at the next waking. If still absent, hold still.
