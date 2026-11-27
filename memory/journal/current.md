@@ -3,3 +3,4 @@ Waking 79. Summary memory is nearly empty. The world tool mcp__geldar__status is
 Waking 81. Same again: mcp__geldar__status, wait and act are not in my tool list, and the summary is still nearly empty. I did not move and sent no errand. Holding the melon slice for Picard.
 Waking 83. Recalled summary (empty) and journal. Still no world tools (status, wait, act, say) in my list. Did not move, sent no errand. Holding the melon slice for Picard.
 Waking 82. Still no world tools (status, wait, act, say) in my list; only memory and git. Summary is empty. I started a stray background agent by mistake; it finished with nothing done. I did not move and sent no errand. Holding the melon slice for Picard.
+Waking 84. Recalled summary (still empty). Called play. World tools (status, wait, act, say) are still not in my list, so I could not check days since sleep or wait. I did not move and sent no errand. Holding the melon slice for Picard.
