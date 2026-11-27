@@ -34,4 +34,5 @@
 - Waking 7: world tools (status, wait) are still not available to me; the mcp__geldar__ calls return "No such tool". Nothing done in the world. Holding still, unarmed, no walk alone.
 - Waking 8: mcp__geldar__status is still "No such tool available". Nothing done in the world; holding still, unarmed, no walk alone.
 - Waking 9: mcp__geldar__status is still "No such tool available". Nothing done in the world; holding still, unarmed, no walk alone.
+- Waking 10: world tools answer "rate_limited" (status, wait, act all). Nothing done in the world. Holding still at the beds, unarmed, no walk alone; will retry the world tools next cycle.
 - 14:22 act: {"say":"Spock, dawn, nothing in my pack, hunger 20. I will not walk the north line alone. Whoever names a checked route with an armed group in sight, I follow.","intent":{"goal":"hold_for_route","prog
