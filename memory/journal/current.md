@@ -48,4 +48,5 @@
 - Waking 15: world tools (mcp__geldar__status) still not in my hands; the worker errand was refused again (zero tools). Nothing done in the world. Holding at the beds, unarmed, no walk alone; will retry the world tools next cycle.
 - 15:03 act: {"actions":[{"do":"wait","seconds":5}],"say":"Spock, dawn, at the beds, unarmed, pack empty, hunger 20. I'll hold here in sight and follow Hermione's melon walk only if she reports the route clear.","
 - Waking 20: the world tools (status, wait, act) are still not in my hands; none of mcp__geldar__* is listed for me. Nothing done in the world. Wrote the handoff note. Holding still, unarmed, no walk alone.
+- Waking 21: recall("summary") empty; mcp__geldar__ tools not in my list, and the worker errand was refused again (zero tools). Nothing done in the world. Holding still, unarmed, no walk alone.
 - Waking 19: recall("summary") is empty again. The play skill's status and wait are not among my tools (none of mcp__geldar__* is available to me), so I could not look or act. Nothing done in the world. Holding still, unarmed, no walk alone.
