@@ -59,4 +59,5 @@
 - Waking 30: recall("summary") empty; status and wait are still not in my tool list. Nothing done in the world. Holding at the beds, unarmed, no walk alone; retry next waking.
 - Waking 32: world tools (status, wait) still not in my list; worker errand failed again (zero tools). Nothing done in the world. Holding at the beds, unarmed, no walk alone; retry next waking.
 - Waking 33: recall("summary") empty; status and wait still not in my tool list; worker errand refused (zero tools). Nothing done in the world. Holding still, unarmed, no walk alone; retry next waking.
+- Waking 35: recall("summary") empty; status, wait and act are not in my tool list, and the worker errand has no tools. Nothing done in the world. Holding still at the beds, unarmed, no walk alone; retry next waking.
 - Waking 19: recall("summary") is empty again. The play skill's status and wait are not among my tools (none of mcp__geldar__* is available to me), so I could not look or act. Nothing done in the world. Holding still, unarmed, no walk alone.
