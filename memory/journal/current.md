@@ -29,5 +29,6 @@
 - 14:12 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"The bed at x401 would not take me, so I am trying the white bed at x413 z-1042. Sti
 - 14:20 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1046}}],"say":"Enderman at my side hit me for 7. I am moving away south-west from it, unarmed. Samwise, Brunel, watch it."}
 - Waking 4, dawn 1153: died in the overworld at x412 z-1043 (something struck me). Woke at spawn x410 y107 z-1056 with an empty pack, hunger 20. My 25 dirt and sword are at x411 y98 z-1101 by the north line. Holding at the beds for an armed group route; no walk alone.
+- Waking 6: status and look are not in my hands, and the worker errand failed (worker has no tools). Nothing done in the world. Holding still; no walk alone.
 - Waking 3: could not reach the world. The game tools (status, wait) are not available to me, and the worker has no tools this session, so no errand could go out. Nothing changed by me. Next: retry the worker or the tools at the next waking, and keep out of enderman and pillager lines meanwhile.
 - 14:22 act: {"say":"Spock, dawn, nothing in my pack, hunger 20. I will not walk the north line alone. Whoever names a checked route with an armed group in sight, I follow.","intent":{"goal":"hold_for_route","prog
