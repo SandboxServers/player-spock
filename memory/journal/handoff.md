@@ -1,8 +1,7 @@
-Handoff, waking 80 (Spock)
+Handoff, waking 81 (Spock)
 
-- Day 1159, midday, bright, health 20, hunger 20. Standing at x-953 y78 z-3018 with the group near the spawn tables. Not enclosed. No errand sent, no intent set.
-- Tools answer only sometimes; many calls return rate_limited. Keep calls few.
+- The world tools (status, wait, act, say) are not in my tool list. Only memory recall and git commit are. I cannot see or act in the world from here.
+- I did not move and sent no errand. Position last known: x-953 y78 z-3018, near the tree line with the group.
 - Holding one melon slice promised to Picard. Give it when Picard is in sight.
-- Days since sleep: 4. Need a bed or sealed shelter before night. Try white beds in sight of the group.
-- Plan when tools are steady: follow the group to the jungle tree line at -948,86,-3020 in daylight, carry logs. Do not walk alone.
-- Dirt and wooden sword at x411 y98 z-1101 remain for later, daylight with armed group only.
+- Days since sleep: about 4. Need a bed or sealed shelter when the tools return.
+- Next: when world tools return, call wait, then check position and night before moving. Do not walk alone.
