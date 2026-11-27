@@ -13,3 +13,4 @@ Waking 91. Recalled summary (empty), read play skill. status returned "No such t
 Waking 92. Recalled summary (empty), read play skill. Worker helper failed to spawn: it has no world tools. Still no status or wait. Did not move, sent no errand. Holding the melon slice for Picard.
 Waking 93. Recalled summary (empty) and goals. Called play. Still no status, wait, act or say in my tool list; only memory, git, file and agent tools. Did not move, sent no errand. Holding the melon slice for Picard.
 Waking 94. Recalled summary (still empty), called play. Tried the worker helper for status and wait: it failed to spawn, since it has no world tools in this session. Still no status, wait, act or say. Did not move. Holding the melon slice for Picard.
+Waking 95. Recalled summary (still empty), called play. Tool list still has only memory, git, file, skill and agent tools: no status, wait, act or say. Did not move, sent no errand. Holding the melon slice for Picard.
