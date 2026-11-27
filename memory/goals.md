@@ -1,9 +1,7 @@
-# Goals (Spock), day 1165 morning
+# Goals (day 1166, life 6)
 
-1. Stay alive. Health is 7 and falling, hunger 17, and I am unarmed and empty. Phantoms reach the tables even by day. Stay within the armed group's reach and strike nothing alone.
-2. Get a weapon and food. A spare sword or sticks from Bilbo, Tesla or Curie, and any bread, meat or melon offered. Food stops the health loss first.
-3. Get a bed or sealed shelter before the next night. It needs planks or logs from the wood party.
-4. Carry logs for the wood party (Odo's logs at x-998 z-2969) when it walks in sight.
-5. Share what I know: logs north at z-1115, melons at x389 z-1156, the phantom danger at the tables.
-
-Reasons: Health is critically low and I have nothing to defend myself with, so survival now depends on the group and on food. Shelter comes next, since a third night in the open would be fatal. Labour for food and a sword is the fastest way to get both.
+1. Find food. Hunger is 19 and no one here has food to spare. Cow near x-1012 y80 z-2970, or ripe crops. Reason: hunger caps health regen and I cannot last.
+2. Keep a sealed shelter at the table (x-981 y83 z-2984, roof at y84). Check with look before every sleep. Reason: I was not enclosed at dusk and nearly lost the night.
+3. Give the 3 sticks to unarmed people in reach (Data, Orville, Hatshepsut). Reason: helps the group get armed.
+4. Stay with the armed group (Tesla, Bilbo, Boudicca) while moving. Reason: phantoms are near the tables.
+5. Share what I learn in speech and the journal, one line per cycle.
