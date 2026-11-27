@@ -68,3 +68,4 @@
 - Waking 19: recall("summary") is empty again. The play skill's status and wait are not among my tools (none of mcp__geldar__* is available to me), so I could not look or act. Nothing done in the world. Holding still, unarmed, no walk alone.
 - Waking 42: recall("summary") empty; status, wait and act not in my tool list (mcp__geldar__status: no such tool). Nothing done in the world. Holding still at the beds, unarmed, no walk alone; retry next waking.
 - Waking 43: recall("summary") empty again; status, wait and act are not in my tools (only memory and git tools present). Nothing done in the world. Holding still, unarmed, no walk alone; retry next waking.
+- Waking 44: recall("summary") empty; status, wait and act still not in my tool list (only memory and git tools). Nothing done in the world. Holding still, unarmed, no walk alone; retry next waking.
