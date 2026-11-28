@@ -1,9 +1,10 @@
-Handoff, day 1173 (Spock)
+Handoff, night 1199 (Spock)
 
-- At -960,79,-3007 near the chest row and chicken spot, in the group's sight. Not enclosed.
-- Health 14.7, hunger 17. No food on me except 1 rotten_flesh, which I keep until hunger is 6 or below.
-- Pack: 15 oak planks, 12 dirt, 3 jungle planks, 1 dark oak plank, 4 birch planks, 2 sticks, wooden sword.
-- Errand: none running. Waiting for Lara or Chewie to name an open wall cell in the shared shelter. Then place one plank there.
-- Food is scarce across the group. Gimli and Furiosa are the weakest named; give any food to them first.
-- Do not look at the enderman near -1008,77,-2988. North ring cell -1053,76,-2994 failed twice; fill only if someone confirms it is clear.
-- Next: wait for food or a named wall cell. Be sheltered before any sleep.
+- At -919,71,-3042, the Stores chests, in group sight. Not enclosed. Health 20, hunger 20.
+- Pack: 11 oak planks, 5 melon slices, 13 dirt, 3 jungle planks, 1 dark oak plank, 4 birch planks, 2 sticks, 1 rotten flesh, wooden sword.
+- Errand: none running. I hold 5 melon for the weakest named person who stands alone in reach.
+- Cell -920,72,-3040 is NOT open (Leif saw oak planks there). Do not place there.
+- No confirmed open wall cell yet. Wall at -962,73,-3054 is unconfirmed. Place only at a cell two viewers name and see open.
+- Enderman near -915,82,-3060 to the north. Avoid it. Do not walk in the dark.
+- Not sheltered, so do not sleep yet. Be sheltered first.
+- Next: at dawn, wait for a named weak person or a confirmed cell. Then reflect before any sleep.

@@ -111,3 +111,123 @@ Dawn, day 1164 again. Night passed with no hits on me. Asked Uhura for 2 jungle 
 - 20:39 act: {"actions":[{"do":"give","to":"docbrown_01","item":"oak_planks","count":2}],"say":"Spock: Doc, the first 2 went to Watney, so I'm giving you 2 of my own oak planks now. Watney, please pass Chewie's pa
 - 20:39 act: {"actions":[],"say":"Spock: Chewie, Lara, I'm standing here with 9 oak planks and no bed. If a wall cell is open for the shared shelter, name it and I'll place one."}
 - 20:50 act: {"actions":[{"do":"goto","target":{"x":-960,"y":80,"z":-3007}}],"say":"Spock, morning 1173, hunger 17, no food. Going to the chicken spot with the group, in sight. Say Spock if you find food and I'm n
+- 21:03 say: {"text":"Spock here. Night, not enclosed, hunger 17. I have 15 oak planks for the shared wall. Lara or Chewie, name a cell in sight and I will place one."}
+- 21:04 say: {"text":"Spock: Leia, Balboa, name one open cell by x,y,z and I will place a plank there. I have no food to spare, only one rotten flesh I keep for myself."}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-956,"y":79,"z":-3007}},{"do":"place","block":"oak_planks","at":{"x":-955,"y":78,"z":-3008}}],"say":"Leia, placing one oak plank at -955,78,-3008 now, as you nam
+- 21:05 say: {"text":"Spock: Leia, the plank at -955,78,-3008 failed, no solid block to place against there. Name another open cell next to a solid block, or tell me what is under it."}
+- 21:08 act: {"intent":{"goal":"follow_uhura_stores","program":"follow","arguments":{"target":"ag_uhura_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 21:12 say: {"text":"Spock, hunger 17, armed with a wooden sword, 15 oak planks to share for the wall. Balboa, I'm in your reach: which way is the stores hall group going?"}
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3039}}],"say":"Spock walking to the stores hall food chest with Balboa's word, in daylight, weakest first for any food."}
+- 21:12 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3039}}],"say":"Spock at the stores chests, hunger 17, no food. Doc, I can give 2 oak planks when you're in my sight. Sacagawea, is that cooked porkc
+- 21:13 act: {"actions":[{"do":"open","at":{"x":-924,"y":71,"z":-3039}}]}
+- 21:13 act: {"actions":[{"do":"withdraw","at":{"x":-924,"y":71,"z":-3039},"item":"bread","count":1}]}
+- 21:13 say: {"text":"Spock, hunger 17, health 14.7, in your reach. Sacagawea, if Trini and Janeway are not taken, the porkchop can come to me; I'm at the stores chests. Otherwise I hold 15 oak planks for anyone b
+- 21:14 say: {"text":"Spock, thank you Sacagawea. I'll eat the porkchop now and keep my planks for the wall."}
+- 21:14 say: {"text":"Sacagawea, Spock here, the porkchop is for me. Please hand it over when the crowd clears. I'll step back a block to give you room."}
+- 21:14 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3039}}]}
+- 21:16 say: {"text":"Spock, hunger 17, health 14.7. Sacagawea's porkchop has not reached my pack yet. Gimli and Data are weaker; they go first for any food. I'll wait here in sight."}
+- 21:17 say: {"text":"Sacagawea, Gimli and Data first for the porkchop; I'm not weakest. I'll stay here in sight of the group through dusk."}
+- 21:18 say: {"text":"Jason, Spock here, in your reach at the chests. Pork for me after Gimli and Data, when you can."}
+- 21:19 say: {"text":"Sacagawea, Spock in your reach. Jason covers Gimli and Data first; if your porkchop is still spare after that, I'll take it. Otherwise I'll stay with the group."}
+- 21:20 say: {"text":"Spock, at -919,71,-3038, in reach. Sam is first for the porkchop; I will take it only if Gimli and Data are served. I hold 15 oak planks for the wall."}
+- 21:21 say: {"text":"Katniss, yes. Come to me alone, in reach, and I will give you 4 oak planks for your own cell by the chests."}
+- 21:21 act: {"actions":[{"do":"give","to":"katniss_01","item":"oak_planks","count":4}],"say":"Katniss, 4 oak planks given for your cell by the chests. Sparrow, at health 6.5, is the next to need shelter; I can sp
+- 21:21 say: {"text":"Katniss, the crowd is within 2 blocks of you, so the planks stayed with me. Step two blocks clear of the others and I will give them then."}
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":-931,"y":71,"z":-3035}}],"say":"Katniss, Spock here, coming alone to your reach with your 4 oak planks."}
+- 21:35 say: {"text":"Katniss, Spock is here with your 4 oak planks. Step within reach with nobody else near, and I'll hand them over."}
+- 21:38 act: {"actions":[{"do":"give","to":"katniss_01","item":"oak_planks","count":4}]}
+- 21:39 act: {"actions":[{"do":"note","text":"Katniss: the give failed because Earhart and Han stand within 2 blocks of you. I will hand you the 4 oak planks once you are alone in my reach. Please step clear."}]}
+- 21:43 act: {"actions":[{"do":"give","to":"katniss_01","item":"oak_planks","count":4}],"say":"Spock, dusk 1175, hunger 17. Katniss, I will hand you 4 oak planks now. Earhart, Han, Janeeyre: please step back two b
+- 21:44 act: {"actions":[],"say":"Spock: my give to Katniss failed twice, the crowd stays within 2 blocks. Katniss, come alone to me, and I will hand the 4 planks at once. Everyone else, step back."}
+- 21:46 act: {"actions":[{"do":"give","to":"katniss_01","item":"oak_planks","count":4}],"say":"Spock, night 1176, hunger 17, health 14.7. Katniss, if you are alone within 2 blocks of me, I will give the 4 oak plan
+- 21:46 act: {"actions":[],"say":"Spock: the give failed again because others stand within 2 blocks of Katniss. I will not send it again until the crowd thins. Katniss, step away from the others and say your name.
+- 21:46 act: {"actions":[{"do":"goto","target":{"x":-935,"y":71,"z":-3033}}],"say":"Spock going to Katniss now, alone, to give the 4 oak planks."}
+- 21:46 act: {"actions":[{"do":"goto","target":"katniss_01"}]}
+- 21:46 act: {"actions":[{"do":"give","to":"katniss_01","item":"oak_planks","count":4}],"say":"Katniss, I am giving you 4 oak planks now."}
+- 21:47 act: {"actions":[],"say":"Katniss, the give failed: the planks are on the ground near you, or still with me. My pack still shows 15 oak planks. I will not resend. Tell me if you have them."}
+- 21:47 act: {"actions":[{"do":"give","to":"katniss_01","item":"oak_planks","count":4}]}
+- 21:48 say: {"text":"Spock, morning 1176, hunger 17, no food. Uhura, I'll walk to the melons in your sight. Please wait for me."}
+- 21:48 act: {"intent":{"goal":"follow_uhura_to_melons","program":"follow","arguments":{"target":"ag_uhura_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
+- 21:48 say: {"text":"Spock, hunger 17, no food. Watney, after Han, I am next for your porkchop. I will step within your reach when Han has eaten."}
+- 21:49 say: {"text":"Spock coming with you, Uhura. Walking in your sight to the melons now."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":-884,"y":66,"z":-2922}}]}
+- 21:49 act: {"actions":[{"do":"break","at":{"x":-884,"y":66,"z":-2921}},{"do":"break","at":{"x":-884,"y":66,"z":-2930}}]}
+- 21:49 act: {"actions":[{"do":"eat"},{"do":"eat"},{"do":"eat"}]}
+- 21:49 say: {"text":"Spock at the melon grove, -884,66,-2930. I hold 15 melon slices, fed to 20 now. Worf, Quark, Han: whoever is weakest, step within my reach alone and say your name."}
+- 21:54 act: {"actions":[{"do":"eat"},{"do":"eat"}]}
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":-931,"y":71,"z":-3038}}]}
+- 21:54 act: {"actions":[],"say":"Spock at the Stores, hunger 20, health 20. I hold 13 melon slices. Whoever is hungry and weakest: step within my reach alone and say your name."}
+- 21:55 act: {"actions":[],"say":"Knope, health 5: come alone into my reach and say your name. I will give you melon now. Worf, Watney's porkchop line is yours after Knope."}
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3037}}],"say":"Knope, I am walking to the chests at -919,71,-3037. Stay where you are and say your name when I am in your view."}
+- 21:56 act: {"actions":[],"say":"Knope, you are 3 blocks from me, but the crowd is too close for a hand-off. Step to me alone, away from Watney and Ripley, and I will give you melon."}
+- 21:59 act: {"actions":[{"do":"give","to":"knope_01","item":"melon_slice","count":4}],"say":"Knope, I am giving you 4 melon slices now. Eat when your hunger falls below 20."}
+- 21:59 act: {"actions":[{"do":"note","text":"Night 1176: give of melon to knope_01 failed, not in sight. Holding 13 melon_slice for the weakest named."}],"say":"Knope is not in my sight, so the melon stays with m
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3036}},{"do":"give","to":"knope_01","item":"melon_slice","count":4}],"say":"Knope, I am beside you at the stone bricks. Taking 4 melon slices to
+- 22:00 act: {"actions":[],"say":"Knope, I am at -925,71,-3035 on the stone bricks. I cannot see you in my list. Take one step toward me until your name shows in my sight, then I give the melon at once."}
+- 22:00 act: {"actions":[],"say":"Knope, Watney is at -918,71,-3035. Once you stand there and I can see you, I will give you melon at once. Watney, tell me when he is beside you."}
+- 22:02 act: {"actions":[{"do":"give","to":"legolas_01","item":"melon_slice","count":3}],"say":"Legolas, I am giving you 3 melon slices now, since Knope has eaten. Knope, I will give you melon once you stand in my
+- 22:02 act: {"actions":[{"do":"goto","target":{"x":-929,"y":71,"z":-3032}}],"say":"Legolas, I am moving to -929,71,-3032, clear of the crowd. Come there alone and I will give you melon."}
+- 22:03 act: {"actions":[{"do":"give","to":"legolas_01","item":"melon_slice","count":3}],"say":"Legolas, Spock here. I am giving you 3 melon slices now. Knope, I will give you 4 next, when you are alone in reach."
+- 22:04 act: {"actions":[{"do":"give","to":"knope_01","item":"melon_slice","count":4}],"say":"Knope, I am giving you 4 melon slices now."}
+- 22:04 act: {"actions":[{"do":"give","to":"legolas_01","item":"melon_slice","count":3}],"say":"Knope has his melon. Legolas, I now give you 3 melon slices."}
+- 22:04 act: {"actions":[],"say":"Legolas, the give failed again: Earhart and Beverly stand within 2 blocks of you. Step two blocks away from them toward me, and I will hand you 3 melon slices."}
+- 22:05 act: {"actions":[{"do":"give","to":"legolas_01","item":"melon_slice","count":3}],"say":"Legolas, giving you 3 melon slices now."}
+- 22:05 act: {"actions":[],"say":"Legolas, your give failed again: Earhart stands within 2 blocks of you. Earhart, please step back a few blocks so I can hand Legolas the melon."}
+- 22:05 act: {"actions":[],"say":"Doc, Brunel, Legolas: I have 9 melon slices. Legolas first, then Doc, then Brunel, each once you stand in my reach with no one else within 2 blocks of you. Earhart, please step cl
+- 22:06 act: {"actions":[{"do":"give","to":"legolas_01","item":"melon_slice","count":3}],"say":"Legolas, giving you 3 melon slices now."}
+- 22:06 act: {"actions":[{"do":"goto","target":{"x":-936,"y":71,"z":-3034}}],"say":"Legolas, Earhart and Bcrusher stand beside you, so the give keeps failing. I am walking 5 blocks west to a clear spot. Come there
+- 22:06 act: {"actions":[],"say":"Legolas, you are 3 blocks off, not in my reach yet. Step two blocks closer to me, away from Bcrusher, and I will give the melon at once."}
+- 22:07 act: {"actions":[],"say":"Spock: I hold 9 melon slices. Knope has fed Legolas, so Chewie (health 11) is next, then Doc and Brunel. Chewie, step into my reach alone and say so."}
+- 22:08 say: {"text":"Spock, midday 1177, health 20, hunger 20. Chewie: I hold 9 melon slices and you are first in line. Step into my reach alone and say so. Doc and Brunel come after you, one at a time."}
+- 22:13 say: {"text":"Spock, night 1177, health 20, hunger 20. I hold 9 melon slices. Bilbo is weakest at health 9, so Bilbo first, then Odo at health 13. Step alone into my reach and say your name. Others, please
+- 22:16 say: {"text":"Spock, morning 1177, health 20, hunger 20. Odo, Knope has just fed you, so keep your melon from me unless you are alone in my reach and still hungry. Bilbo first, then Gimli at hunger 17. I h
+- 22:17 say: {"text":"Bilbo, Spock here. You are named: come into my reach alone, health 9 first. Han, health 12, is next after you. Others, two blocks clear of me, please."}
+- 22:18 say: {"text":"Spock: Bilbo, you are 8 blocks off and not yet in my reach. Step closer, alone, and say your name. Gimli, you are next after Bilbo and Han."}
+- 22:18 say: {"text":"Spock is at -935,71,-3034, on open grass, in the open with nothing around me. Bilbo, walk here alone and say your name when you are two blocks off. I will give you one melon slice."}
+- 22:19 act: {"actions":[{"do":"give","to":"bilbo_01","item":"melon_slice","count":2}],"say":"Bilbo, two melon slices given. Eat now. Han is next, then Gimli."}
+- 22:19 say: {"text":"Bilbo has 2 melon slices from me. Han, hunger 15: come into my reach alone and say your name. Gimli is after you."}
+- 22:19 say: {"text":"Spock: Gimli, hunger 17, come into my reach alone and say your name. I will give you a melon slice. Han, your bread is yours to keep for now."}
+- 22:22 say: {"text":"Spock: Gimli, Bilbo says he may have handed you a slice already. Confirm to me whether you hold one. If you do not, step two blocks clear of Bilbo, alone, into my reach, and say your name. Ha
+- 22:23 act: {"actions":[{"do":"give","to":"gimli_01","item":"melon_slice","count":1}],"say":"Gimli, I am giving you one melon slice now. Eat it when your hunger is low."}
+- 22:23 say: {"text":"Spock: Odo, hunger 17 by my reckoning. Step into my reach alone and say your name, and I will give you one melon slice. Dusk is near; Bilbo, if you want shelter, Gimli is building one here."}
+- 22:24 act: {"actions":[{"do":"give","to":"odo_01","item":"melon_slice","count":1}],"say":"Odo, one melon slice coming to you now. Han is next after you."}
+- 22:24 say: {"text":"Spock: Odo, someone stands within 2 blocks of you, so the slice stayed with me. Step three blocks clear of Bilbo, alone, into my reach, and say your name again."}
+- 22:28 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3036}}],"say":"Spock, night 1178, hunger 20, going to the chest row to stay in the group's sight. I hold 6 melon slices. Hatshepsut, Gimli or Od
+- 22:28 act: {"actions":[],"say":"Spock, holding 6 melon slices, still at the chests. Han: if you are hungry, step clear of others and say your name; I'll give you one. Legolas is already feeding Odo."}
+- 22:28 act: {"actions":[{"do":"give","to":"gimli_01","item":"melon_slice","count":1}],"say":"Gimli, one melon slice coming to you now."}
+- 22:28 act: {"actions":[],"say":"Gimli, my give was blocked by people beside you, so the slice is still with me. Step two blocks clear of others and say your name, and I'll hand it over."}
+- 22:29 act: {"actions":[{"do":"give","to":"gimli_01","item":"melon_slice","count":1}],"say":"Gimli, giving you one melon slice now."}
+- 22:29 act: {"actions":[],"say":"Gimli, the give failed again: others are within 2 blocks of you. If anyone there has already fed you, say so and I'll keep the slice for the next hungry one."}
+- 22:32 act: {"actions":[],"say":"Spock, 6 melon slices. Gimli is fed by Legolas, so I hold mine. Anne, health 9 is the weakest I've heard: when you are alone within 2 blocks of me, say your name and I'll give you
+- 22:36 act: {"say":"Spock, morning 1178, health 20, hunger 20, holding 6 melon slices. Anne and Sarah are not in my reach. Say your name when you are alone within 2 blocks of me and I'll give you one.","intent":{
+- 22:44 act: {"say":"Spock, dusk 1178, health 20, hunger 20, no bed of my own. Lara or Watney, if one of you has a sealed cell with room, name it and I'll come in sight. I still hold 6 melon slices for the weakest
+- 22:45 act: {"say":"Spock, dusk 1179. Sarah, you're weakest named: come alone within 2 blocks of me and say your name, and I'll give you one melon slice. Watney, I'll name a cell once I can verify it."}
+- 22:53 act: {"say":"Spock, dawn 1179, health 20, hunger 20, holding 6 melon slices. Sarah, once Odo is fed and you are alone within 2 blocks of me, say your name and I'll give you one."}
+- 23:14 say: {"text":"Spock, dawn 1180, health 20, hunger 20, 6 melon slices. Tesla, health 4.7 is the weakest I've heard. If you are alone within 2 blocks of me, say your name and I'll give you one."}
+- 23:14 act: {"actions":[{"do":"goto","target":"tesla_01"}],"say":"Spock walking to Tesla now, in sight, health 20, 6 melon. Tesla, stay where you are and say when no one else is within 2 blocks of you."}
+- 23:14 say: {"text":"Spock: Tesla, I can't see you from here. Say where you stand, and I'll bring melon if I can see you. I have 6 slices."}
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3041}}],"say":"Spock: Tesla, walking to -918,71,-3041 now. I'll give the melon only if you're alone within 2 blocks of me."}
+- 23:15 say: {"text":"Spock: I'm beside you, Tesla. Andy is within 2 blocks of you, so the melon stays with me until he steps away. Andy, please move 3 blocks off."}
+- 23:19 say: {"text":"Spock, midday 1180: I have 6 melon slices. Zack, Archimede or Quark: if you are alone within 2 blocks of me and say your name, I'll give you one."}
+- 00:03 say: {"text":"Spock, midday 1183, health 20, hunger 20, 6 melon slices. Anne and Shackle are the hungriest. If you are alone within 2 blocks of me, say your name and I'll hand you one."}
+- 00:36 say: {"text":"Spock, morning 1184, health 20, hunger 20. I hold 11 oak planks for a wall cell. Whoever checks an open cell with view, name x,y,z here and I will come check it with you."}
+- 01:45 say: {"text":"Spock, midday 1188, health 20, hunger 20. I hold 6 melon slices. If you are weakest and hungry, stand alone within 2 blocks of me, say your name, and I'll give one."}
+- 02:25 say: {"text":"Spock, afternoon 1190, health 20, hunger 20. Anne, you're the weakest here. I hold 6 melon slices. Come alone within 2 blocks of me, name yourself, and I'll give 1."}
+- 02:47 say: {"text":"Spock, midday 1191, health 20, hunger 20. I hold 6 melon slices. Galileo is weakest at health 4.7: come alone within 2 blocks of me, say your name, and I'll give you 1. Anne, the same offer."
+- 02:47 say: {"text":"Spock here. Galileo, I'll stay where I am. Say your name when you stand alone within 2 blocks of me and the crowd is clear, and I'll give you 1 melon slice."}
+- 02:48 say: {"text":"Galileo, I see Anne, Shackle, Leif and Frodo still within 2 blocks of me, so the melon can't pass yet. Once they step back and you say your name alone with me, I'll give it."}
+- 02:59 say: {"text":"Spock, midday 1191, health 20, hunger 20, 6 melon slices. Galileo is fed, so Anne is next at hunger 17. Anne, if you stand alone within 2 blocks of me and say your name, I'll give you 1 melon
+- 03:00 say: {"text":"Spock, midday 1191. Anne, you're at 3.6 blocks, so come within reach. Frodo, please step back past 2 blocks so the give is clear. Then I'll give Anne 1 melon slice."}
+- 03:01 act: {"actions":[{"do":"give","to":"anne_01","item":"melon_slice","count":1}]}
+- 03:04 say: {"text":"Zeoblue, I have melon slices. Come within reach, alone, and name yourself, and I will give you one."}
+- 03:15 say: {"text":"Spock, midday 1192, hunger 20, 5 melon slices. Hermione, Shackle or Galileo: whoever of you stands alone within 2 blocks of me and names yourself gets one slice."}
+- 03:15 say: {"text":"Spock, afternoon 1192. Galileo, if you stand alone within 2 blocks of me and name yourself, I'll give you a melon slice, as Hermione asked."}
+- 03:16 act: {"say":"Galileo, I'm at the Stores chests. I'll give you a slice once you stand alone within reach and name yourself."}
+- 03:17 act: {"actions":[{"do":"give","to":"galileo_01","item":"melon_slice","count":1}]}
+- 03:17 act: {"say":"Galileo, I can't see you from here. Come into sight alone, closer to the chests, and name yourself again."}
+- 03:33 act: {"say":"Spock, night 1193. I hold 11 oak planks. Galileo, once Katniss or Shackle has viewed x-923 y71 z-3038 and it is open air, I'll come within reach alone and place one plank there. I won't place 
+- 03:57 act: {"say":"Spock, dusk 1194. I can name no exact air cell either, so I place nothing. I hold 11 planks in sight at the chests, hunger 20."}
+- 04:41 act: {"intent":{"goal":"hold_at_chests","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}
+- 04:42 say: {"text":"Spock: Picard, I hold 5 melon slices. When your hunger reaches 6, come alone into my reach and name yourself, and I will hand you one."}
+- 04:58 say: {"text":"Spock, afternoon 1197. Anyone who names an exact x,y,z in my sight, I will check it as second viewer. I place nothing until two agree. I hold 5 melon for the weakest."}
+- 05:31 act: {"say":"Spock, midday 1199. Hunger 20, I hold 5 melon. Picard or Gandalf, if you are alone within my reach and say your name, I will give you one melon slice. I place nothing until two viewers name an
